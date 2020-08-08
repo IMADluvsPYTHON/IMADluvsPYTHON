@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img 
-  align='left'
-  alt='IMADluvsPYTHON Stats'
-  src='https://github-readme-stats.vercel.app/api?username=IMADluvsPYTHON&show_icon=true&hide_border=true"
+  align="left"
+  alt="IMADluvsPYTHON Stats"
+  src="https://github-readme-stats.vercel.app/api?username=IMADluvsPYTHON&show_icon=true&hide_border=true"
 />
