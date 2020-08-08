@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 <img
   alt=""
   src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatesborodowntown.com%2Fwp-content%2Fuploads%2F2016%2F01%2Finstagram-Logo-PNG-Transparent-Background-download.png&f=1&nofb=1"
+  height=100px
+  width=200px
 />
