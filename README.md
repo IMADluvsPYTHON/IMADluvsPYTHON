@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img
   align="left"
   alt="INSTAGRAM"
-  src="http://www.washingtonpost.com/express/wp-content/uploads/2016/12/Instagram-logo.gif"
+  src="http://www.washingtonpost.com/express/wp-content/uploads/2016/12/Instagram-logo.gif"/>
