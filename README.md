@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img 
   align="left"
-  alt="IMADluvsPYTHON Stats"
+  alt="Tech-Sec Stats"
   src="https://github-readme-stats.vercel.app/api?username=IMADluvsPYTHON&show_icon=true&hide_border=true"
 />
 <strong>Follow me on Instagram<strong/>
