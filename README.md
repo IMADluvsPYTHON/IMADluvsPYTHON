@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img 
-  align="left"
+  align="right "
   alt="Tech-Sec Stats"
   src="https://github-readme-stats.vercel.app/api?username=Tech-Sec&show_icon=true&hide_border=true"
 />
