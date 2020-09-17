@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   alt="Tech-Sec Stats"
   src="https://github-readme-stats.vercel.app/api?username=Tech-Sec&show_icon=true&hide_border=true"
 />
+
 **Follow me on [Instagram](https://www.instagram.com/_imad._.1/)**
 
 **My latest tool [InfoG](https://github.com/Tech-Sec).\
