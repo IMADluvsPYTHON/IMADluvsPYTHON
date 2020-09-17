@@ -20,3 +20,6 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=Tech-Sec&show_icon=true&hide_border=true"
 />
 <strong>Follow me on <a href="https://www.instagram.com/_imad._.1/">Instagram<a/><strong/>
+
+**My latest tool [InfoG](https://github.com/Tech-Sec).\
+Make sure yo check it out!!!**
