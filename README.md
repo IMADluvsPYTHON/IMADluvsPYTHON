@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 **Follow me on [Instagram](https://www.instagram.com/_imad._.1/)**
 
-**My latest tool [WinPyLogger](https://github.com/Tech-Sec/WinPyLogger).\
+**An information gathering tool - [InfoG](https://github.com/Tech-Sec/InfoG).\
 Make sure to check it out!!!**
