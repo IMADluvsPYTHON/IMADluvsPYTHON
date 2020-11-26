@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 **Follow me on [Instagram](https://www.instagram.com/_imad._.1/)**
 
-**An information gathering tool - [InfoG](https://github.com/Tech-Sec/InfoG).\
+[InfoG v2.0](https://github.com/Tech-Sec/InfoG) is out now !!.\
 Make sure to check it out!!!**
